@@ -30,7 +30,7 @@
                     <a class="nav-link" href="contact" title="Contact">Contact</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link btn btn-primary btn-sm" href="user-login" title="Login">Log In</a>
+                    <a class="nav-link btn btn-primary btn-sm" href="login" title="Login">Log In</a>
                 </li>
             </ul>
         </nav>
